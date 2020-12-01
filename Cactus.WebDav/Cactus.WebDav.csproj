@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>WebDav</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cactus.WebDav.Common\Cactus.WebDav.Common.csproj" />
+    <ProjectReference Include="..\Cactus.WebDav.Core\Cactus.WebDav.Core.csproj" />
+  </ItemGroup>
+
+</Project>
